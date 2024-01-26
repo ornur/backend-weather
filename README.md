@@ -14,9 +14,10 @@ This project is a backend application that provides weather information based on
 ## Getting Started
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/backend-weather.git`
-2. Install dependencies: `npm install`
-3. Setup these environmental variables in `.env` file
+1. Turn off all external extensions from your Browser (AdBlocker etc.)
+2. Clone the repository: `git clone https://github.com/your-username/backend-weather.git`
+3. Install dependencies: `npm install`
+4. Setup these environmental variables in `.env` file
     ```
     OPENCAGE_API_KEY
     OPENWEATHER_API_KEY
